@@ -24,6 +24,10 @@ Hand your AI coding agent an Android APK and watch how the app works: an animate
 Four AI agents read Indian legal case files (English, Hindi, Marathi and more), cross-check each other and hand you a PDF brief. Decision support, not a decision.<br>
 <sub>Next.js · TypeScript · Mistral, Groq or Gemini · OCR with Tesseract</sub>
 
+**[JanDrishti](https://github.com/jagdish3135/jandrishti)** · [jandrishti-app.vercel.app](https://jandrishti-app.vercel.app)<br>
+One portal for civic complaints. Every complaint gets a named officer and a deadline, a missed deadline moves it to the senior officer automatically, and it closes only with a new on-site photo that is checked for reuse. In English, हिन्दी and मराठी, with large text for older citizens.<br>
+<sub>React · Vite · TypeScript · Leaflet + OpenStreetMap · built with Knit</sub>
+
 **[Knit](https://github.com/jagdish3135/knit)** · [jagdish3135.github.io/knit](https://jagdish3135.github.io/knit/)<br>
 A multi-agent software team for Claude Code, Codex, Cursor, OpenCode and Antigravity. It plans, builds, tests, reviews and ships, and you approve each step. LexAgent was built with it.<br>
 <sub>Claude Code subagents and skills · 13 agents plus 8 on call</sub>
